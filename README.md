@@ -1,4 +1,5 @@
-![Cartão dev](https://user-images.githubusercontent.com/8458095/113949470-bf6f9d00-97e5-11eb-9157-d9be61dcedf6.png)
+## Bem-vindo ao meu perfil! 😄
+## Welcome to my profile! 😄
 
 [<img src="https://img.shields.io/badge/-JonathanSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-reis-dos-santos/" />](http://linkedin.com/in/jonathan-reis-dos-santos/)
 <!--
