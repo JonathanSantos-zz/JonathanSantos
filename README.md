@@ -1,6 +1,6 @@
 ![Cartão dev](https://user-images.githubusercontent.com/8458095/113949470-bf6f9d00-97e5-11eb-9157-d9be61dcedf6.png)
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/jonathan-reis-dos-santos/)
 <!--
 **JonathanSantos/JonathanSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
