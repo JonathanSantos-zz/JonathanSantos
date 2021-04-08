@@ -1,5 +1,5 @@
-## Bem-vindo ao meu perfil! 😄
-## Welcome to my profile! 😄
+# Bem-vindo ao meu perfil! 😄
+### Welcome to my profile! 😄
 
 [<img src="https://img.shields.io/badge/-JonathanSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-reis-dos-santos/" />](http://linkedin.com/in/jonathan-reis-dos-santos/)
 <!--
