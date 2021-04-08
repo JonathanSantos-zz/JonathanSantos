@@ -2,6 +2,9 @@
 ### Welcome to my profile! 😄
 
 [<img src="https://img.shields.io/badge/-JonathanSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-reis-dos-santos/" />](http://linkedin.com/in/jonathan-reis-dos-santos/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSantos)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JonathanSantos/JonathanSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
